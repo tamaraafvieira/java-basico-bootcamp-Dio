@@ -1,4 +1,4 @@
-package edu.tamara.anatomiadeclasses;
+package edu.tamara.sintaxeJava.anatomiadeclasses;
 public class MinhaClasse {
     public static void main (String [] args) {
 

@@ -1,4 +1,4 @@
-package edu.tamara.anatomiadeclasses;
+package edu.tamara.sintaxeJava.anatomiadeclasses;
 public class BoletimEstudantil {
     public static void main(String[] args) {
         int mediaFinal = 6;
